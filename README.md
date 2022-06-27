@@ -1,0 +1,1 @@
+This application was made following the AWS tutorial [Build a Full-Stack React Application](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/)
