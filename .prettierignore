@@ -1,0 +1,8 @@
+**/*.svg
+package.json
+.vscode
+.firebase
+.husky
+.next
+dist
+node_modules
