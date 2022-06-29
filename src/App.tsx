@@ -9,7 +9,7 @@ function App({ signOut }: any) {
         <Image src={logo} className="App-logo" alt="logo" />
         <Heading level={1}>We now have Auth!</Heading>
       </Card>
-      <Button onClick={signOut}>Sign Out</Button>
+      <Button onClick={signOut}>Click to sign out</Button>
     </View>
   );
 }
